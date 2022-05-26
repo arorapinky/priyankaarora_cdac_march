@@ -21,3 +21,8 @@
 - Registers
 - stack 
 - frame pointer - points to the base of the frame
+# Day 2
+
+-Booting procedure -ROM BL -PBL -SBL (uboot) -Kernal (linux) -RFS (Buildroot)
+
+   - Makefile
