@@ -1,4 +1,4 @@
-# Embedded
+# Embedded OS (30-05-2022)
 ## Day 1
 - 2 Tier & 3 Tier
 -Hardware
