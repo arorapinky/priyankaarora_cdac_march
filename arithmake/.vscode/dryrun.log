@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/pihu/Desktop/Embedded_OS-main/arithmake'
+make: 'executable' is up to date.
+make: Leaving directory '/home/pihu/Desktop/Embedded_OS-main/arithmake'
+ 
